@@ -1,4 +1,4 @@
-[![MasterHead](https://images.wallpapersden.com/image/download/my-winter-4k_bGloameUmZqaraWkpJRnamtlrWZsZWU.jpg)](https://github.com/Sarychev-Boris)
+[![MasterHead](https://sun9-68.userapi.com/impf/c637628/v637628738/2c9d2/iUxq5cIbBZ4.jpg?size=604x243&quality=96&sign=6c66a196c6af0d5f7aa1959d18047360&type=album)](https://github.com/Sarychev-Boris)
 <h1 align="center">Hello! Boris is here.</h1>
 <h3 align="center">Another one gear of the Doomsday machine</h3>
 <img alling="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/8c/f2/73/8cf273b3936db804bb7d86b798df528d.gif">
